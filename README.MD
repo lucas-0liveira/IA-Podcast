@@ -12,7 +12,7 @@
 # Projeto Podcast I.A.
 
 
- > Projeto com o objetivo de criar um podcast utilizando ferramentas de inteligência artificial, a partir de uma sequência estruturada de prompts.
+ 📘 > Projeto com o objetivo de criar um podcast utilizando ferramentas de inteligência artificial, a partir de uma sequência estruturada de prompts.
    Cada etapa do processo criativo é gerada e refinada por meio desse processo de prompts.
 
 ## 💻 Tecnologias utilizadas no projeto

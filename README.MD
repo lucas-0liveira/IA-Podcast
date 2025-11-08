@@ -46,7 +46,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://project-portfolio-lucas.netlify.app/Imagens/Perfil.jpeg"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspLucas<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/lucas-0liveira">
